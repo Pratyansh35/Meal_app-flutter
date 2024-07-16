@@ -11,7 +11,17 @@ A recipe app that provides a collection of delicious recipes, complete with ingr
 
 ## Screenshots
 
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/1st.png">
 
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/2nd.png">
+
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/3rd.png">
+
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/4th.png">
+
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/5th.png">
+
+<img width="250" src="https://raw.githubusercontent.com/Pratyansh35/Meal_app-flutter/main/assets/6th.png">
 
 ## Installation
 
